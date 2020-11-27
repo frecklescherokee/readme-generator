@@ -5,9 +5,9 @@
 not safe
 
 ## Table of Contents
-usage(#usage)
-Installation(#installation)
-Questions(#questions)
+[usage](#usage)
+[Installation](#installation)
+[Questions](#questions)
 
 ## Usage
 
